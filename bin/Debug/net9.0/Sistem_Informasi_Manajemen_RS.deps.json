@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Sistem_Informasi_Manajemen_RS/1.0.0": {
+        "runtime": {
+          "Sistem_Informasi_Manajemen_RS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistem_Informasi_Manajemen_RS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

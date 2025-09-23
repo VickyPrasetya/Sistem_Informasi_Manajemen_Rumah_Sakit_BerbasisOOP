@@ -1,0 +1,15 @@
+D:\Data Vicky\Data Semester 3 RPL\PRG berbasis Platform\Sistem Informasi Manajemen Rumah Sakit Berbasis OOP\Sistem_Informasi_Manajemen_RS\bin\Debug\net9.0\Sistem_Informasi_Manajemen_RS.exe
+D:\Data Vicky\Data Semester 3 RPL\PRG berbasis Platform\Sistem Informasi Manajemen Rumah Sakit Berbasis OOP\Sistem_Informasi_Manajemen_RS\bin\Debug\net9.0\Sistem_Informasi_Manajemen_RS.deps.json
+D:\Data Vicky\Data Semester 3 RPL\PRG berbasis Platform\Sistem Informasi Manajemen Rumah Sakit Berbasis OOP\Sistem_Informasi_Manajemen_RS\bin\Debug\net9.0\Sistem_Informasi_Manajemen_RS.runtimeconfig.json
+D:\Data Vicky\Data Semester 3 RPL\PRG berbasis Platform\Sistem Informasi Manajemen Rumah Sakit Berbasis OOP\Sistem_Informasi_Manajemen_RS\bin\Debug\net9.0\Sistem_Informasi_Manajemen_RS.dll
+D:\Data Vicky\Data Semester 3 RPL\PRG berbasis Platform\Sistem Informasi Manajemen Rumah Sakit Berbasis OOP\Sistem_Informasi_Manajemen_RS\bin\Debug\net9.0\Sistem_Informasi_Manajemen_RS.pdb
+D:\Data Vicky\Data Semester 3 RPL\PRG berbasis Platform\Sistem Informasi Manajemen Rumah Sakit Berbasis OOP\Sistem_Informasi_Manajemen_RS\obj\Debug\net9.0\Sistem_Informasi_Manajemen_RS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Vicky\Data Semester 3 RPL\PRG berbasis Platform\Sistem Informasi Manajemen Rumah Sakit Berbasis OOP\Sistem_Informasi_Manajemen_RS\obj\Debug\net9.0\Sistem_Informasi_Manajemen_RS.AssemblyInfoInputs.cache
+D:\Data Vicky\Data Semester 3 RPL\PRG berbasis Platform\Sistem Informasi Manajemen Rumah Sakit Berbasis OOP\Sistem_Informasi_Manajemen_RS\obj\Debug\net9.0\Sistem_Informasi_Manajemen_RS.AssemblyInfo.cs
+D:\Data Vicky\Data Semester 3 RPL\PRG berbasis Platform\Sistem Informasi Manajemen Rumah Sakit Berbasis OOP\Sistem_Informasi_Manajemen_RS\obj\Debug\net9.0\Sistem_Informasi_Manajemen_RS.csproj.CoreCompileInputs.cache
+D:\Data Vicky\Data Semester 3 RPL\PRG berbasis Platform\Sistem Informasi Manajemen Rumah Sakit Berbasis OOP\Sistem_Informasi_Manajemen_RS\obj\Debug\net9.0\Sistem_Informasi_Manajemen_RS.sourcelink.json
+D:\Data Vicky\Data Semester 3 RPL\PRG berbasis Platform\Sistem Informasi Manajemen Rumah Sakit Berbasis OOP\Sistem_Informasi_Manajemen_RS\obj\Debug\net9.0\Sistem_Informasi_Manajemen_RS.dll
+D:\Data Vicky\Data Semester 3 RPL\PRG berbasis Platform\Sistem Informasi Manajemen Rumah Sakit Berbasis OOP\Sistem_Informasi_Manajemen_RS\obj\Debug\net9.0\refint\Sistem_Informasi_Manajemen_RS.dll
+D:\Data Vicky\Data Semester 3 RPL\PRG berbasis Platform\Sistem Informasi Manajemen Rumah Sakit Berbasis OOP\Sistem_Informasi_Manajemen_RS\obj\Debug\net9.0\Sistem_Informasi_Manajemen_RS.pdb
+D:\Data Vicky\Data Semester 3 RPL\PRG berbasis Platform\Sistem Informasi Manajemen Rumah Sakit Berbasis OOP\Sistem_Informasi_Manajemen_RS\obj\Debug\net9.0\Sistem_Informasi_Manajemen_RS.genruntimeconfig.cache
+D:\Data Vicky\Data Semester 3 RPL\PRG berbasis Platform\Sistem Informasi Manajemen Rumah Sakit Berbasis OOP\Sistem_Informasi_Manajemen_RS\obj\Debug\net9.0\ref\Sistem_Informasi_Manajemen_RS.dll
